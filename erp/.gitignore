@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+*.xlsx
+*.tmp.xlsx
+backups/
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
